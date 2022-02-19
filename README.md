@@ -39,9 +39,11 @@ Most certainly no! As stated in point 3 of the results sections, there are a mer
 A query that was not requiered for the project, but was used in point 4 of the results section, was the mentor employees grouped by their title. This will give the company an insight of what roles are capable to be mentored, and what other might need to head-hunt or trust in an insede worker and promote it.
 
 ![Mentorship_titles](https://user-images.githubusercontent.com/95836718/154815705-f68e12a6-bce6-4320-8e01-a69cc62f7405.png)
+
 ***Note:*** Query is in "Queries/README_queries.sql"
 
 Another query that will help understand this crisis, will be a table that contained each title retiring from each department. This will help in involving the managers of each department and get usefull insight from their part, and who know, maybe some roles do not be to be filled in an specific department and might manage to work just fine with fewer people.
 
 ![retiring_titles_by_dept](https://user-images.githubusercontent.com/95836718/154816807-d95d6ed4-8dde-4d3b-a7d2-97e02825385d.png)
+
 ***Note:*** Query is in "Queries/README_queries.sql"
